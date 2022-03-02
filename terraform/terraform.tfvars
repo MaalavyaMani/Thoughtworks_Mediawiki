@@ -1,0 +1,6 @@
+cluster_name = "media-wiki-k8s"
+vm_size = "Standard_B2ms"
+dns_service_ip     = "192.168.17.10"
+docker_bridge_cidr = "172.19.0.1/16"
+service_cidr       = "192.168.17.0/24"
+k8_version = "1.21.9"
