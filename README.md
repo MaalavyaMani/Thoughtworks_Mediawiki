@@ -107,7 +107,7 @@ The following resources got created after the deployment
   
  After this deployment, once the pods are up and running we can access the web page using Ingress IP address
  
- <img src="images/media-wiki-1.37.1.png" width="700" height="500" style="vertical-align:middle">
+ <img src="images/mediawiki-1.37.1.PNG" width="700" height="500" style="vertical-align:middle">
  
  
  <img src="images/mediawiki_running.PNG" width="700" height="500" style="vertical-align:middle">
